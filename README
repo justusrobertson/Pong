@@ -1,0 +1,17 @@
+ ____     _____       __  __      ____      
+/\  _`\  /\  __`\    /\ \/\ \    /\  _`\    
+\ \ \L\ \\ \ \/\ \   \ \ `\\ \   \ \ \L\_\  
+ \ \ ,__/ \ \ \ \ \   \ \ , ` \   \ \ \L_L  
+  \ \ \/   \ \ \_\ \   \ \ \`\ \   \ \ \/, \
+   \ \_\    \ \_____\   \ \_\ \_\   \ \____/
+    \/_/     \/_____/    \/_/\/_/    \/___/ 
+                                            
+
+REAMDE
+    A version of the game Pong built with Unity in 2013 before the 4.3 2D update. The game uses 3D objects to recreate the original 2D gameplay. Created to be used as instructional material in an introduction to games programming class.
+
+
+DEMO
+    A demo of the project is available at:
+
+        http://www.justusrobertson.com/Unity/Pong
